@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabAct1Compare</string>
+    <string name="FirstNumber">Input First Number: </string>
+    <string name="SecondNumber">Input Second Number: </string>
+</resources>
